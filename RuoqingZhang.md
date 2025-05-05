@@ -12,12 +12,12 @@ permalink: /RuoqingZhang/
 ### 🎓 Education
 
 **Cornell University**, Ithaca, NY  
-*Master of Engineering in Systems Engineering (Expected May 2025)*
-Relevant Courses: Project Management and leadership in complex systems, Model based systems engineering, Data Analytics, Finance Modelling project, optimization under uncertainty, risk simulation and Monte Carlo
+*Master of Engineering in Systems Engineering (Expected May 2025)*  
+**Relevant Courses:** Project Management and leadership in complex systems, Model based systems engineering, Data Analytics, Finance Modelling project, optimization under uncertainty, risk simulation and Monte Carlo
 
 **University of Southampton**, Southampton, UK  
-*BSc in Mathematics with Actuarial Science (Jun 2024)*
-Relevant Courses: Intermediate Microeconomics, Principles of Macroeconomics, Accounting and Finance for Non-Specialists, Statistical Modelling, Stochastic Processes, Partial Differential Equations, Operational Research, Mathematical Finance, Actuarial Mathematics, Survival Models
+*BSc in Mathematics with Actuarial Science (Jun 2024)*  
+**Relevant Courses:** Intermediate Microeconomics, Principles of Macroeconomics, Accounting and Finance for Non-Specialists, Statistical Modelling, Stochastic Processes, Partial Differential Equations, Operational Research, Mathematical Finance, Actuarial Mathematics, Survival Models
 
 ---
 
