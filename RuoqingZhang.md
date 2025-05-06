@@ -4,6 +4,7 @@ title: Ruoqing (Maggie) Zhang
 permalink: /RuoqingZhang/
 ---
 
+<img src="{{ 'profile.jpg' | relative_url }}" alt="Profile" style="height:40px; border-radius: 50%; float: right; margin-top: 10px;">
 
 📧 zmaggie919@gmail.com  📱 +1 (607) 379-3396  
 🔗 [LinkedIn](https://www.linkedin.com/in/ruoqing-zhang)
