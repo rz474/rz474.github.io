@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fdfdfd;
+    color: #333;
+    margin: 40px;
+  }
+  
+  h1, h2, h3 {
+    color: #007acc;
+  }
+  
+  a {
+    color: #005ea2;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img.profile-img {
+    width: 120px;
+    height: auto;
+    border-radius: 50%;
+    float: right;
+    margin-left: 20px;
+    border: 2px solid #ccc;
+  }
+  
