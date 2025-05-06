@@ -5,7 +5,6 @@ permalink: /RuoqingZhang/
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
-</div>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
 
   <div style="flex: 1;">
