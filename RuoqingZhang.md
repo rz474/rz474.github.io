@@ -1,21 +1,25 @@
 ---
 layout: page
-title: Ruoqing (Maggie) Zhang
 permalink: /RuoqingZhang/
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left: Name + Contact -->
   <div>
-    <p>
+    <div style="display: flex; align-items: center; gap: 20px;">
+      <h1 style="margin: 0;">Ruoqing (Maggie) Zhang</h1>
+      <img src="/assets/images/profile.jpg" style="width: 100px; height: auto; border-radius: 50%; border: 2px solid #ccc;" alt="Profile">
+    </div>
+    <p style="margin-top: 10px;">
       📧 zmaggi91@gmail.com &nbsp;&nbsp; 📱 +1 (607) 379-3396  
       <br>
       <a href="https://www.linkedin.com/in/ruoqing-zhang" target="_blank">🔗 LinkedIn</a>
     </p>
   </div>
-  <img src="/assets/images/profile.jpg" style="width: 120px; height: auto; border-radius: 0; border: 2px solid #ccc;" alt="Profile">
 </div>
+
 
 
 ---
