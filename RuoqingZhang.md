@@ -8,7 +8,6 @@ permalink: /RuoqingZhang/
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <h1>Ruoqing (Maggie) Zhang</h1>
     <p>
       📧 zmaggi91@gmail.com &nbsp;&nbsp; 📱 +1 (607) 379-3396  
       <br>
