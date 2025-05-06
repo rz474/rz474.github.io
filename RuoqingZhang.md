@@ -57,7 +57,7 @@ permalink: /RuoqingZhang/
 
 ### 🧠 Project Experience
 
-**Financial Risk Modelling System** *(Aug 2024 – Present)*  
+**Financial Risk Modeling System** *(Aug 2024 – Present)*  
 - Created a SysML context diagram to illustrate system boundaries, interactions, and data flow, enhancing clarity in the system's design and functionality
 - Provided actionable insights to enhance risk management strategies and improve overall financial stability  
 
