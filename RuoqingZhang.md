@@ -10,19 +10,14 @@ permalink: /RuoqingZhang/
   <div>
     <h1>Ruoqing (Maggie) Zhang</h1>
     <p>
-      <img src="https://img.icons8.com/ios/20/000000/email.png" style="vertical-align: middle;"/> zmaggi91@gmail.com
-      &nbsp;&nbsp;
-      <img src="https://img.icons8.com/ios/20/000000/phone.png" style="vertical-align: middle;"/> +1 (607) 379-3396
+      📧 zmaggi91@gmail.com &nbsp;&nbsp; 📱 +1 (607) 379-3396  
       <br>
-      <img src="https://img.icons8.com/ios/20/000000/linkedin.png" style="vertical-align: middle;"/>
-      <a href="https://www.linkedin.com/in/ruoqing-zhang" target="_blank">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/ruoqing-zhang" target="_blank">🔗 LinkedIn</a>
     </p>
   </div>
   <img src="/assets/images/profile.jpg" style="width: 120px; height: auto; border-radius: 0; border: 2px solid #ccc;" alt="Profile">
 </div>
 
-📧 zmaggie919@gmail.com  📱 +1 (607) 379-3396  
-🔗 [LinkedIn](https://www.linkedin.com/in/ruoqing-zhang)
 
 ---
 
