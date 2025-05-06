@@ -6,7 +6,9 @@ permalink: /RuoqingZhang/
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<img src="/assets/images/profile.jpg" class="profile-img" alt="Profile">
+<div style="position: absolute; top: 20px; right: 20px; z-index: 100;">
+  <img src="/assets/images/profile.jpg" style="width: 120px; height: auto; border-radius: 50%; border: 2px solid #ccc;" alt="Profile">
+</div>
 
 📧 zmaggie919@gmail.com  📱 +1 (607) 379-3396  
 🔗 [LinkedIn](https://www.linkedin.com/in/ruoqing-zhang)
