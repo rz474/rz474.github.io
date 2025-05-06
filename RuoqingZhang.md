@@ -6,7 +6,6 @@ permalink: /RuoqingZhang/
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left: Name + Contact -->
   <div>
     <div style="display: flex; align-items: center; gap: 20px;">
       <h1 style="margin: 0;">Ruoqing (Maggie) Zhang</h1>
@@ -19,7 +18,6 @@ permalink: /RuoqingZhang/
     </p>
   </div>
 </div>
-
 
 
 ---
